@@ -1,0 +1,6 @@
+{
+  "name": "SocialPulse Pro",
+  "description": "Smart Social Marketing Management Platform & SMM Service Ecosystem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
